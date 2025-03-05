@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>andywang</title>
+    <link>https://example.org/</link>
+    <description>Recent content on andywang</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Mar 2025 16:32:16 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://example.org/posts/first/</link>
       <pubDate>Tue, 04 Mar 2025 16:32:16 +0800</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://example.org/posts/first/</guid>
       <description>&lt;h1 id=&#34;this-is-my-first-post-&#34;&gt;This is my first post !&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://example.org/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/aboutme/</guid>
+      <description>&lt;p&gt;受到 &lt;a href=&#34;https://lilianweng.github.io/&#34;&gt;Lil&amp;rsquo;s Log&lt;/a&gt; 的啟發，覺得如此書寫網站的方式簡潔又順眼，符合心中對網站的完美期待，覺得這種寫法太棒了，於是決定開始書寫。&lt;/p&gt;
+&lt;h3 id=&#34;contact-me&#34;&gt;Contact me&lt;/h3&gt;
+&lt;p&gt;mail: &lt;a href=&#34;mailto:andywang947@gmail.com&#34;&gt;andywang947@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
